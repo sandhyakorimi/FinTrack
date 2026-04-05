@@ -54,7 +54,7 @@ export const initialTransactions = [
     amount: -720,
     type: "expense",
     category: "Food"
-  },
+  }, 
   {
     id: 8,
     date: "2026-03-20",
